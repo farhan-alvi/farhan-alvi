@@ -19,7 +19,9 @@ I am passionate about building intelligent systems and solving real-world proble
 
 ### 💻 Skills
 Languages: Python, C++, Java, C#, SQL
+
 Web Development: HTML, CSS, JavaScript, PHP
+
 AI & Machine Learning: PyTorch
 
 ### 📫 Reach me
