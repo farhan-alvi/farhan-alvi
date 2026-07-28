@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Sk. Farhan Alvi
 
-<!--
-**farhan-alvi/farhan-alvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering (CSE) Student at American International University-Bangladesh (AIUB)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about building intelligent systems and solving real-world problems through technology. I enjoy transforming ideas into practical applications through continuous learning, problem-solving, and project-based development.
+
+### 💻 Interests
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Cybersecurity
+
+### 🌱 Currently Learning
+- Deep Learning
+- PyTorch
+- Git & GitHub
+
+### 💻 Skills
+Languages: Python, C++, Java, C#, SQL
+Web Development: HTML, CSS, JavaScript, PHP
+AI & Machine Learning: PyTorch
+
+### 📫 Reach me
+- Email: itsfarhanalvi315@gmail.com
+
+Thanks for visiting my profile! 
